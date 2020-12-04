@@ -9,8 +9,6 @@ I want to be an [AWS Community Hero] [aws-hero] and help build solutions using A
 
 ## I like
 
-- [Travel](https://twitter.com/antonbabenko/status/1208503560733896706) to share knowledge on conferences, meetups, podcasts, workshops, mentorship, etc.
-- Figure out best&worst practices (by asking "Why?"), and publishing them as [Terraform best practices](https://www.terraform-best-practices.com) and [Terragrunt Reference Architecture](https://github.com/antonbabenko/terragrunt-reference-architecture)
 - Open-source, Terraform and AWS
 - Live streaming is fun, too.
 
